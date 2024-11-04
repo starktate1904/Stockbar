@@ -1,0 +1,11 @@
+name,location,price,quantity,branch_id,category_id
+Elegant Hair Serum,Hair Care Aisle,15,50,1,6
+Classic Black Sneakers,Footwear Section,50,30,1,4
+Summer Floral Dress,Women's Clothing,40,20,1,3
+Men's Casual Shirt,Men's Clothing,30,25,1,3
+Moisturizing Hair Mask,Hair Care Aisle,12,40,1,5
+Trendy High Heels,Footwear Section,60,15,1,4
+Stylish Denim Jacket,Women's Clothing,70,10,1,3
+Athletic Running Shoes,Footwear Section,55,20,1,4
+Hair Styling Gel,Hair Care Aisle,9,60,1,5
+Casual T-Shirt,Men's Clothing,20,35,1,3
